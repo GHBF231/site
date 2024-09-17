@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    overflow: auto;
+    background-color: #12100d;
+
+}
+body{
+
+}
+header{
+    margin: 0%;
+}
+
+#cine{
+    margin: 0%;
+    width: 150px;
+}
+
+#imgP{
+    position: absolute;
+    width: 100%;
+    object-fit: cover;
+    color: transparent;
+     display: block;
+      border-radius: 12px;
+       filter: brightness(0.72);
+      
+}
